@@ -1,4 +1,4 @@
-1## _💻 Status_
+## _💻 Status_
 
 ![Younghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical)
 
