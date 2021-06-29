@@ -17,7 +17,7 @@
 - 🌍 코알라(교내 동아리) (2020.11.01 ~ )
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="170">
 
 ###
 
