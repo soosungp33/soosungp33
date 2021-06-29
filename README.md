@@ -5,7 +5,7 @@
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical">
 
 - 🥇 혼자보단 여러 사람들과 소통하며 성장하는 것을 선호합니다.
 - 🔥 새로운 기술을 배우는 것을 좋아합니다.
@@ -20,4 +20,5 @@
 ## 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosungp33&layout=compact)](https://github.com/soosungp33/github-readme-stats)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical"  height="165">
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
