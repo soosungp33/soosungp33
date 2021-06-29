@@ -9,9 +9,9 @@
 
 - 🥇 혼자보단 여러 사람들과 소통하며 성장하는 것을 선호합니다.
 - 🔥 새로운 기술을 배우는 것을 좋아합니다.
-- 📕 learning `Go`, `Spring`, `Algorithm`
-<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+- 📕 learning <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>, <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>, `Algorithm`
+
+
 
 ### Experience
 
