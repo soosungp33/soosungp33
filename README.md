@@ -18,4 +18,4 @@
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosungp33&layout=compact)](https://github.com/soosungp33/github-readme-stats)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="165">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical">
