@@ -17,8 +17,9 @@
 - 🌍 코알라(교내 동아리) (2020.11.01 ~ )
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
+
 ## 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosungp33&layout=compact)](https://github.com/soosungp33/github-readme-stats)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33" height="100">
