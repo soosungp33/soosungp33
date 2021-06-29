@@ -11,6 +11,7 @@
 - 🔥 새로운 기술을 배우는 것을 좋아합니다.
 - 📕 learning `Go`, `Spring`, `Algorithm`
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 
 ### Experience
 
