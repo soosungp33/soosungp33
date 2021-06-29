@@ -5,7 +5,7 @@
 
 ### Who Am I
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
 
 - 🥇 혼자보단 여러 사람들과 소통하며 성장하는 것을 선호합니다.
 - 🔥 새로운 기술을 배우는 것을 좋아합니다.
@@ -17,7 +17,7 @@
 - 🌍 코알라(교내 동아리) (2020.11.01 ~ )
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical">
 
 ###
 
