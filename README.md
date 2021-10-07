@@ -16,7 +16,7 @@
 - 🎓 Jeonbuk National University (2016.03 ~ )
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 - 🌍 네이버 부스트캠프 챌린지 (2021.07.19 ~ 2021.08.13)
-
+- 🌍 네이버 부스트캠프 멤버십 (2021.08.23 ~ )
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="170">
 
 ###
