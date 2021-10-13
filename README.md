@@ -18,8 +18,3 @@
 - 🌍 네이버 부스트캠프 챌린지 (2021.07.19 ~ 2021.08.13)
 - 🌍 네이버 부스트캠프 멤버십 (2021.08.23 ~ )
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="170">
-
-###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soosungp33&layout=compact)](https://github.com/soosungp33/github-readme-stats)
-
