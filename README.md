@@ -5,8 +5,6 @@
 
 ### Who Am I
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
-
 - 🥇 혼자보단 여러 사람들과 소통하며 성장하는 것을 선호합니다.
 - 🔥 새로운 기술을 배우는 것을 좋아합니다.
 - 📕 learning <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/> <img src="https://img.shields.io/badge/Java-A5915F?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Algorithm-FFA116?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
@@ -17,4 +15,6 @@
 - 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
 - 🌍 네이버 부스트캠프 챌린지 (2021.07.19 ~ 2021.08.13)
 - 🌍 네이버 부스트캠프 멤버십 (2021.08.23 ~ )
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="170">
