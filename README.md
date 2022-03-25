@@ -11,10 +11,11 @@
 
 ### Experience
 
-- 🎓 Jeonbuk National University (2016.03 ~ )
-- 🌱 D&D(IT 연합 동아리) (2021.06 ~ )
+- 🎓 Jeonbuk National University (2016.03 ~ 2022.02.22)
+- 🌱 D&D(IT 연합 동아리) (2021.06 ~ 2021.09)
 - 🌍 네이버 부스트캠프 챌린지 (2021.07.19 ~ 2021.08.13)
-- 🌍 네이버 부스트캠프 멤버십 (2021.08.23 ~ )
+- 🌍 네이버 부스트캠프 멤버십 (2021.08.23 ~ 2021.12.06)
+- 🧑‍💻 카카오 (2022.03.14 ~ )
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dhoh33">
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=soosungp33&show_icons=true&theme=radical" height="170">
